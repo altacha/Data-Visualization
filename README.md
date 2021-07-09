@@ -1,0 +1,2 @@
+# Data-Visualization
+Saya akan menganalisa "Jumlah Customer terbanyak dari suatu State". Ekspektasi dari kesimpulan nanti, State dengan customer yang paling banyak, perlu diperhatikan lebih servicenya. Salah satunya diperbanyak kurir dan ditingkatkan kualitas pengiriman di state tersebut.  # Prosedur Pengolahan data yang saya pakai hingga menjadi visualisasi adalah berikut 1. Check Missing Value 2. Data Wrangling (Tame and Tidying) 3. Data Transformasi 4. Visualisasi 5. Kesimpulan
