@@ -136,7 +136,9 @@ barplot(tabled,
 )
 ```
 
+
 # Berikut adalah Grafik "Bar Plot" Pembelian Product berdasarkan Customer's State.
+![Project 1 - Github](https://user-images.githubusercontent.com/81346754/157773992-908d9b28-b7bd-4a45-92ad-047b270962c4.PNG)
 # Kesimpulan pada Visualisasi dari analisa berikut:
 1. Kode State "SP" memiliki pembeli / costumer paling banyak, diikuti dengan Kode State "RJ" dan "MG"
 2. Ada jgap yang sangat besar antara pembeli Kode State "SP" dengan Kode State lainnya. Dengan visualisasi ini dapat dilihat dengan jelas perbedaannya.
