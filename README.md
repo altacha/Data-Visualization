@@ -117,6 +117,7 @@ tabled <- table(top_state_uncounted$customer_state)
 tabled
 
 ```
+![Project 1-table viz](https://user-images.githubusercontent.com/81346754/157776613-b507fbd6-52fb-41ff-92c0-89c7a0401721.PNG)
 
 ```{r}
 barplot(tabled,
